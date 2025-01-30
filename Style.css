@@ -17,8 +17,15 @@ background-position: center;
 }
 .trip1{padding: 5rem;
     display: flex;  
+    background-color: rgb(250, 214, 214);
+    
 }
 .fleximage{
     width: 500px;
     height: 500px;
+}
+.text{
+    border: 1px solid black; 
+    margin: 3rem;
+    
 }
