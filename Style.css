@@ -10,6 +10,7 @@ background-image:url(image/calgarydowntown.jpeg);
 
 background-size: cover;
 background-position: center;
+
 }
 .mainheading{
     background-color: antiquewhite;
@@ -26,6 +27,13 @@ background-position: center;
 }
 .text{
     border: 1px solid black; 
-    margin: 3rem;
+    margin: 5rem;
+    line-height: 2rem;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding: 1rem;
     
+}
+footer{display: flex;
+    justify-content: center;
+    align-items: center;
 }
