@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{display: flex;
+    justify-content: center;
+padding: 7rem;
+background-image:url(image/calgarydowntown.jpeg);
+
+background-size: cover;
+background-position: center;
+}
+.mainheading{
+    background-color: antiquewhite;
+    padding: 1rem;
+}
